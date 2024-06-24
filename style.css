@@ -1,0 +1,51 @@
+body {
+    background-color: darkslategray;
+}
+
+#aotfanweb {
+    max-width: 700px;
+    /* max-height: px; */
+    /* background-color: lightgray; */
+    
+    color: white;
+    margin: 0 auto;
+    padding: 10px;
+}
+
+#daily {
+    /* border: 1px black solid; */
+    border: 1px none solid;
+    padding: 5px;
+}
+
+.daily {
+    padding-right: 10px;
+}
+
+img {
+    /* border: 1px black solid; */
+    border: 1px none solid;
+    padding: 5px;
+    width: 700px;
+    
+}
+
+#buttons {
+    /* border: 1px black solid; */
+    border: 1px none solid;
+    padding: 5px;
+    
+}
+
+#characterButtons{
+    text-align: right;
+    border: 1px none solid;
+    padding-right: 5px;
+}
+
+#text {
+    border: 1px none solid;
+    padding: 5px;
+    
+}
+
